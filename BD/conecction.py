@@ -68,6 +68,3 @@ class DAO():
                     
                       
                     
-# co = DAO()
-# data=co.listCourses()                
-# print(data[0][1])
